@@ -8,12 +8,12 @@
 
 🎓 Graduanda em Ciência da Computação  
 💼 Membro da Equipe de Negócios da CodeX Jr                 
-📚 Educador voluntário no IEEE SIGHT UFCG            
-📚 Monitora Inclusiva               
-🤖 Participante do projeto de Jogos Sérios com IA Generativa da Probex                  
+👩‍🏫 Educadora voluntário no IEEE SIGHT UFCG            
+👩‍🏫 Monitora Inclusiva na UFCG                     
+🎮 Participante do projeto de Jogos Sérios com IA Generativa da Probex                  
 🏊‍♀️ Atleta de Natação — disciplina e foco são parte da minha essência                                              
 🤖 Fascinada por Inteligência Artificial e Neurociência Computacional               
-🎯 Apaixonada por resolver problemas e gerar impacto real
+🎯 Apaixonada por resolver problemas e gerar impacto real          
 🧠 Sempre curiosa, motivada e pronta para novos desafios         
 
 ---
