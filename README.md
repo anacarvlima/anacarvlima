@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&center=true&vCenter=true&width=800&lines=Ol%C3%A1!+Me+chamo++Ana+Cec%C3%ADlia;Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Atleta+de+Nata%C3%A7%C3%A3o+de+Alto+Rendimento;Apaixonada+por+Desenvolvimento+e+Inova%C3%A7%C3%A3o;Bem-vindo+ao+meu+GitHub!+%F0%9F%91%8B" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&center=true&vCenter=true&width=800&lines=Ol%C3%A1!+Me+chamo++Ana+Cec%C3%ADlia;Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Apaixonada+por+Desenvolvimento+e+Inova%C3%A7%C3%A3o;Bem-vindo+ao+meu+GitHub!+%F0%9F%91%8B" alt="Typing SVG" />
 </p>
 
 ---
@@ -7,10 +7,14 @@
 ## 👩‍💻 Sobre Mim
 
 🎓 Graduanda em Ciência da Computação  
-🚀 Apaixonada por tecnologia, resolução de problemas e impacto real  
-🏊‍♀️ Atleta de Natação — disciplina e foco fazem parte da minha essência  
-📚 Leitora assídua e dedicada ao aprendizado constante                  
-🌎 Sempre curiosa e aberta a conhecimentos multidisciplinares
+💼 Membro da Equipe de Negócios da CodeX Jr                 
+📚 Educador voluntário no IEEE SIGHT UFCG            
+📚 Monitora Inclusiva               
+🤖 Participante do projeto de Jogos Sérios com IA Generativa da Probex                  
+🏊‍♀️ Atleta de Natação — disciplina e foco são parte da minha essência                                              
+🤖 Fascinada por Inteligência Artificial e Neurociência Computacional               
+🎯 Apaixonada por resolver problemas e gerar impacto real
+🧠 Sempre curiosa, motivada e pronta para novos desafios         
 
 ---
 
